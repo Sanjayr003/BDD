@@ -1,4 +1,4 @@
-@reg
+@reg @sit
 Feature: Login feature
 @test1
 Scenario Outline: Login Test Scenario
